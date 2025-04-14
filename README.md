@@ -6,7 +6,7 @@ May vary in quality and fun-ness. I don't own a DDR pad!
 
 Q: Why does this exist?
 
-A: I like rhythm games and I like Lua!
+A: I like rhythm games and I like Lua! I thought making these would be a fun way to practice Lua and learn about GLSL shaders. Eventually I want to progress to making levels [like this](https://www.youtube.com/watch?v=eqZE60HanCM)!
 
 
 
