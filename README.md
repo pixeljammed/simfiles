@@ -22,5 +22,4 @@ A: I like rhythm games and I like Lua! I thought making these would be a fun way
 ## Preview
 [Temporary preview](https://youtu.be/aCgqu27JSIc) - I can't get Wine to emulate notITG properly on my Mac, so this will do!
 
-## Credits 
-- [SMEditor](https://github.com/tillvit/smeditor)
+Credits: [SMEditor](https://github.com/tillvit/smeditor)
