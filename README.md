@@ -11,15 +11,13 @@ A: I like rhythm games and I like Lua! I thought making these would be a fun way
 
 
 ## Collection
-| Song                     | Artist | Difficulty | Description                          | Last Updated |
-|--------------------------|--------|------------|--------------------------------------|--------------|
-| WLD U HLD IT AGAINST ME? | xaev   | 5          | https://soundcloud.com/xaev/paradise | March 2025   |
-|                          |        |            |                                      |              |
-|                          |        |            |                                      |              |
+| Song                                 | Artist               | Difficulty | Description                                            | Preview                                 |
+|--------------------------------------|----------------------|------------|--------------------------------------------------------|-----------------------------------------|
+| WLD U HLD IT AGAINST ME?             | xaev                 | 5          | [SoundCloud](https://soundcloud.com/xaev/paradise)     | [YouTube](https://youtu.be/GO9Xfo2zVvQ) |
+| ℙℝ 𝕣𝕒𝕘𝕖 ✰                            | asciicats            | 8          | [SoundCloud](https://soundcloud.com/asciicats/pr-rage) | havent recorded lol                     |
+| her head is soooo rolling!! love her | leroy (Jane Remover) | 7          | [SoundCloud](https://soundcloud.com/c0ncernn/s3-e2)    | havent recorded lol                     |
 
+<!---the fact that the fking song title isnt monospaced for PR RAGE is pmo'ing me...--->
 
-
-## Preview
-[Temporary preview](https://youtu.be/aCgqu27JSIc) - I can't get Wine to emulate notITG properly on my Mac, so this will do!
-
+## Credits
 Credits: [SMEditor](https://github.com/tillvit/smeditor)
