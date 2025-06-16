@@ -1,3 +1,11 @@
+<h1 align="center"> pixel's terrible notITG pack 
+<br>
+<br>
+  
+[![VIDEO PREVIEW](https://img.youtube.com/vi/GO9Xfo2zVvQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=GO9Xfo2zVvQ)
+
+</h1>
+
 # simfiles
 My pack of stepmania modcharts meant for use with [notITG](https://www.noti.tg/). All charts made by me.
 May vary in quality and fun-ness. I don't own a DDR pad!
